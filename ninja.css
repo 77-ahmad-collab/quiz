@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.percent{
+    display: none;
+    text-align: center;
+    color: lightskyblue;
+    margin: 10px;
+}
+.header{
+    background-color: ;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
+.form{
+    background-color: lightskyblue;
+    color: black;
+    font-size: 20px;
+}
